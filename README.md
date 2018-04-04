@@ -1,6 +1,14 @@
 # Youtube clone
 
 ## Dependencies
+- babel
+- lodash
+- react
+- react-dom
+- react-redux
+- react-router
+- redux
+- youtube-api-search
 
 ## Getting started
 - Install all dependencies (using the 'npm install' command).
