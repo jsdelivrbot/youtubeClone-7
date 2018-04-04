@@ -1,25 +1,9 @@
-# ReduxSimpleStarter
+# Youtube clone
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+## Dependencies
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+## Getting started
+- Install all dependencies (using the 'npm install' command).
+- Run the development web server using the 'npm start' command.
+- Run the websocket server using the 'npm start' command in youtubeClone folder.
+- Open http://localhost:8080
