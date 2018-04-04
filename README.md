@@ -1,5 +1,7 @@
 # Youtube clone
 
+YoutubeClone is a full stack application built with ReactJS, Webpack with Babel, JSX and ES6.
+
 ## Dependencies
 - babel
 - lodash
@@ -15,3 +17,7 @@
 - Run the development web server using the 'npm start' command.
 - Run the websocket server using the 'npm start' command in youtubeClone folder.
 - Open http://localhost:8080
+
+## Product
+
+
