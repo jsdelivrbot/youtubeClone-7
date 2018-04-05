@@ -1,12 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import SearchBar from './components/search_bar';
 
 const API_KEY = 'AIzaSyBAj5mt7mDGhqkoDMdBIp7Scl383PDyr5A';
 
 
-const App = () => {
-    return <h1>Hello World</h1>;            // Component CLASS. Creates HTML
-}
+const App = () => {                         // Component CLASS. Creates HTML
+    return (
+        <div>
+            <h1>YoutubeClone</h1>
+            <SearchBar />
+        </div>
+    );
+};
 
 ReactDOM.render(<App />, document.querySelector('.container'));
 
