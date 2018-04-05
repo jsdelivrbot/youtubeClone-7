@@ -1,11 +1,27 @@
-# ReduxSimpleStarter
+# Youtube Clone
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Insert description here
+
+### Dependencies
+
+    "babel-preset-stage-1": "^6.1.18",
+    "lodash": "^3.10.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-redux": "4.3.0",
+    "react-router": "^2.0.1",
+    "redux": "^3.0.4"
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
+- git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
 
+  In your project folder:
+  
+- install all dependencies (npm install)
+- install packages 
+    -youtube-api-search (npm install --save youtube-api-search)
+    
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
