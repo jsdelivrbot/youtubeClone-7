@@ -14,7 +14,7 @@ YoutubeClone is a full stack application built with ReactJS, Webpack with Babel,
 
 ### Getting Started
 
-- git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+- git clone https://github.com/79manuel/youtubeClone.git
 
   In your project folder:
   
