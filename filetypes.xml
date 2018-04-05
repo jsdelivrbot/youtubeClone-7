@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="services" type="HTML" />
+      <mapping pattern="test" type="HTML" />
+      <mapping pattern="vagrant" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="php" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>
