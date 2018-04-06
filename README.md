@@ -1,6 +1,6 @@
 # Youtube Clone
 
-Insert description here
+youtubeClone Is full stack application built with ReactJS, Webpack with Babel, JSX and ES6.
 
 ### Dependencies
 
