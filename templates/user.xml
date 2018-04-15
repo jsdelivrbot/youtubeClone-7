@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="hdr" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;    &lt;meta charset=&quot;UTF-8&quot;&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; href=&quot;css/style.css&quot;/&gt;&#10;    &lt;link href=&quot;https:&quot; rel=&quot;stylesheet&quot;&gt;&#10;    &lt;script type=&quot;text/javascript&quot;&#10;            src=&quot;https://code.jquery.com/jquery-3.3.1.slim.min.js&quot;&#10;            integrity=&quot;sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=&quot;&#10;            crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;js/onscroll.js&quot;&gt;&lt;/script&gt;&#10;    &lt;title&gt;Disposal King - Home&lt;/title&gt;&#10;&lt;/head&gt;&#10;$END$" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
